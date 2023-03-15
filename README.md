@@ -1,8 +1,6 @@
 # Alô! Eu sou o Gustavo!
 Bom, primeiramente, sou um estudante de Tecnologia em Análise e Desenvolvimento de Sistemas pela IFPA e no momento estou no 2° semestre do curso.
 
-Moro em Belém do Pará porém sou natural de Augusto Corrêa/PA, ao nordeste do estado.
-
 Desde pequeno sou fascinado em entender como tudo funciona e por isso me interesso em sempre estar estudando ou aprendendo algo.
 Com jogos não foi diferente, desde os 9 anos quando ganhei meu primeiro netbook imediatamente comecei a pesquisar como eu poderia fazer meu próprio jogo.
 Quase 10 anos depois aqui estou em um curso na área de TI no meu primeiro estágio!
