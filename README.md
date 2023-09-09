@@ -1,16 +1,8 @@
 # Alô! Eu sou o Gustavo!
-Bom, primeiramente, sou um estudante de Tecnologia em Análise e Desenvolvimento de Sistemas pela IFPA e no momento estou no 2° semestre do curso.
+Sou um estudante de Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Pará, atualmente cursando o 3° semestre. Tive interesse na área de programação desde os 9 anos e, desde então, fazia pequenos projetos ao decorrer dos anos, como pequenos jogos ou simulações orgânicas, até decidir seguir a carreira de TI ao terminar o ensino médio.
 
-Desde pequeno sou fascinado em entender como tudo funciona e por isso me interesso em sempre estar estudando ou aprendendo algo.
-Com jogos não foi diferente, desde os 9 anos quando ganhei meu primeiro netbook imediatamente comecei a pesquisar como eu poderia fazer meu próprio jogo.
-Quase 10 anos depois aqui estou em um curso na área de TI no meu primeiro estágio!
+Durante minha adolescência aprendi a programar em Java e C++ para projetos pessoais, até que tive a oportunidade de aprender Python na prática em meu último estágio, onde me apaixonei pela área de dados.
 
-Durante essa grande jornada pela internet tive experiências com programação, dentre elas:
-- Java e Javascript com Processing
-- C# com Unity e Game Maker
-- C++ com SFML/OpenGL
-- Python
+Meu projeto mais recente envolveu a construção de um data lake na AWS, onde orquestrei a extração, transformação e carregamento dos dados de dezenas de milhares de filmes usando a API do TMDB, além dos serviços disponíveis da AWS, como Lambda, Glue e S3. Utilizei o QuickSight para analisar e apresentar os dados obtidos.
 
-Atualmente em meu tempo vago gosto de desenhar, aprender um instrumento ou programar algum pequeno projeto do meu interesse.
-
-Obrigado por ler a minha introdução, por enquanto é isso!
+Atualmente em meu tempo vago gosto de desenhar, aprender um instrumento ou programar algum pequeno projeto do meu interesse
