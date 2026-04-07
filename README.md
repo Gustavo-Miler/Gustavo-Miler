@@ -1,1 +1,9 @@
-Olá, eu sou o Gustavo Miler! 👋Sou um entusiasta de dados e tecnologia baseado em Belém, PA. Atualmente, foco em transformar dados brutos em insights valiosos e arquiteturas escaláveis.🎓 Formação: Cursando Tecnologia em Análise e Desenvolvimento de Sistemas no IFPA (Conclusão em 06/2026).🛠 Stack Principal: Python (Pandas, PySpark), SQL (Redshift, PostgreSQL) e ecossistema AWS (S3, Glue, Lambda).⚙️ Orquestração: Experiência com Apache Airflow e automação de pipelines ETL.🐳 DevOps: Conhecimentos em Docker e Kubernetes para ambientes conteinerizados.
+Olá, eu sou o Gustavo Miler! 👋
+
+Sou um entusiasta de dados e tecnologia baseado em Belém, PA. 
+Atualmente, foco em transformar dados brutos em insights valiosos e arquiteturas escaláveis.
+
+🎓 Formação: Cursando Tecnologia em Análise e Desenvolvimento de Sistemas no IFPA (Conclusão em 06/2026).
+🛠 Stack Principal: Python (Pandas, PySpark), SQL (Redshift, PostgreSQL) e ecossistema AWS (S3, Glue, Lambda).
+⚙️ Orquestração: Experiência com Apache Airflow e automação de pipelines ETL.
+🐳 DevOps: Conhecimentos em Docker e Kubernetes para ambientes conteinerizados.
